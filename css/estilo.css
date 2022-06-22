@@ -1,0 +1,75 @@
+		p{
+			background-color: yellow;
+		}
+		.uno{
+			color: green;
+		}
+		#dos{
+			font-family: verdana;
+		}
+
+		div{
+			margin:40px;
+			margin-right: 10px;
+			margin-bottom: 5px;
+			margin-left: 5px;
+			margin-top: 8px;
+			padding: 25px;
+			padding-top: 10px;
+			padding-bottom: 5px;
+			padding-right: 8px;
+			padding-left: 12px;
+			border-style: solid;
+			border-style: :double;
+			border-style: ridge;
+			border-style: groove;
+			border-style: inset;
+			border-style: outset;
+			border-style: dotted;
+			border-style: dashed;
+			border-color: red;
+			border-left-style: solid;
+
+			/*DIMENSIONES*/
+			width: 500px;
+			width: 30%;
+			width: inherit;
+			width: auto;
+
+			height: auto;
+			min-height: 300px;
+			min-width: 300px;
+
+			overflow: auto;
+			overflow: visible;
+			overflow: hidden;
+			overflow: scroll;
+
+			background-image: url(../img/image.jpg);
+			background-color: green;
+		}
+		ul{
+			list-style: none;
+			list-style-type: decimal;
+			list-style-type: lower-alpha;
+			list-style-type: lower-roman;
+			list-style-type: upper-alpha;
+			list-style-type: upper-roman;
+			list-style-type: disc;
+			list-style-type: square;
+			list-style-type: circle;
+		}
+		a{
+			text-decoration: none;
+
+		}
+		a:link{
+			color: pink;
+		}
+		a:visited{
+			color: green;
+		}
+		a:hover{
+			color: green;
+		}
+		
